@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("file:///home/kingfritz/anand/profile/black.jpg") -25px -50px;
+    background: url("https://raw.githubusercontent.com/rxaj/mypage/main/profile/black.jpg") -25px -50px;
     height: 100vh;
     color:#fff;
     min-height: 500px;
